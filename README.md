@@ -65,6 +65,12 @@ In today's digital landscape, the proliferation of deepfake technology and fake 
 #### Guardian: Defending Against Deepfakes
 Guardian is an advanced AI model specifically designed to analyze images and detect deepfakes. Leveraging state-of-the-art technology, Guardian employs sophisticated algorithms to scrutinize images and identify signs of manipulation. By detecting deepfakes, Guardian helps individuals safeguard their online presence and protect themselves from potential harm. Furthermore, Guardian also verifies the authenticity of images, ensuring that users can trust the content they encounter online.
 
+
+![model](img_vid/Screenshot 2024-04-17 at 12.02.22 AM.png "Model for classifying normal and anomaly videos")
+
+
+
+
 #### TruthGuard: Combatting Fake News
 TruthGuard is a powerful tool developed to detect fake news articles and combat the spread of misinformation. Utilizing cutting-edge machine learning techniques, TruthGuard analyzes news content to distinguish between genuine and fabricated information. By training on a diverse dataset comprising both real and fake news articles, TruthGuard has been fine-tuned to accurately classify news content and provide users with reliable information. Additionally, TruthGuard cross-references its results with a Gemini model to identify relevant news articles, ensuring that users receive timely and pertinent updates.
 
