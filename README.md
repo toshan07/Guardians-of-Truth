@@ -230,13 +230,48 @@ In today's rapidly evolving world, access to accurate and reliable news is essen
 
 ## Quick Start
 
+Follow these steps to set up the project locally on your machine.
 
+### Prerequisites
+Make sure you have the following installed on your machine:
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [Postgre-SQL](https://www.postgresql.org/download/)
+
+### Cloning the Repository
+```bash
+git clone https://github.com/toshan07/Guardians-of-Truth
+cd Guardians-of-Truth
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+Install the model packages from requirement.txt :
+
+```bash
+pip install -r requirements.txt
+```
+**Running the Project**
+
+Open the `ejs_server`, by running the `index.js` file.
+```bash
+npm i
+npm mon index.js
+```
+Open the `Test_Ml_Models`, then run the `model_deepfake` and `model_fake_news` file to run the Fast Api Server which is used for deploying the models.
 
 ## Demo
-
+[![Video Demo](p5.jpg)](https://vimeo.com/935345170?share=copy)
 
 ## Contributors
 *Team: The BLOODLINE* 🔥🔥
+
 The project was developed by the following contributors-
   - Toshan Gupta
   - Naman Singhania
