@@ -26,9 +26,7 @@ In today's digital landscape, the proliferation of deepfake technology and fake 
 *Key Features*
 
 - **Guardian (Deepfake Detection):**  Advanced AI model that analyzes images to expose deepfakes, protecting users from manipulated media.
-- 
 - **TruthGuard (Fake News Detection):** Combats the spread of misinformation by pinpointing fake news articles, promoting truth and transparency.
-- 
 - **News Update (News-Bot):**  Delivers trustworthy news updates from reputable sources, enabling users to stay informed about global events.
 
 ## Tech Stack
@@ -169,15 +167,18 @@ In 2021, Washington D.C. was stunned by viral deepfake images of Tom Cruise. Our
 #### Accuracy:
 The model trained using LSTM obtained 93% accuracy
 Below is the confusion matrix on training data
-![model](img_vid/p11.jpg "Confusion Matrix")
+
+![model](img_vid/p11.png "Confusion Matrix")
 
 #### Responses:
 
 We gave some fake news related to a fake Twitter account impersonating Republic TV is stirring controversy with biased polls, mistaken for the official channel. Despite being called out as parody, it continues to tweet divisive polls, prompting criticism from users.Our model is predicted correctly as fake
-![model](img_vid/p11.png "Response 1")
+
+![model](img_vid/p12.png "Response 1")
 
 We gave another prompt as current news regarding placement scenario in IIT's and model correctly identified the situation.
-![model](img_vid/p9.png "Response 2")
+
+![model](img_vid/p9.jpg "Response 2")
 
 
 ## Features
@@ -191,12 +192,14 @@ By detecting deepfakes, Guardian helps individuals safeguard their online presen
 
 ![model](img_vid/p7.jpg "Model for classifying real and fake images")
 
+
 #### TruthGuard: Combatting Fake News
 TruthGuard is a powerful tool developed to detect fake news articles and combat the spread of misinformation. Utilizing cutting-edge machine learning techniques, TruthGuard analyzes news content to distinguish between genuine and fabricated information. 
 
 By training on a diverse dataset comprising both real and fake news articles, TruthGuard has been fine-tuned to accurately classify news content and provide users with reliable information. Additionally, TruthGuard cross-references its results with a Gemini model to identify relevant news articles, ensuring that users receive timely and pertinent updates.
 
 ![model](img_vid/p3.jpg "Model for classifying real and fake news")
+
 
 ### 2. Sign-in Process with Secure Storage
 
@@ -208,6 +211,7 @@ User data is stored in a PostgreSQL database, utilizing industry-standard encryp
 
 ![model](img_vid/p8.jpg "Model for classifying real and fake news")
 
+
 ### 3. Image Verification
 
 The Bloodline project incorporates advanced image verification capabilities to identify and combat deepfakes. Leveraging a comprehensive dataset sourced from state-of-the-art AI models such as GAN and DALL-E, the project's AI models have been trained to recognize patterns indicative of image manipulation.
@@ -216,11 +220,13 @@ Using the Clip Vit-14 model for feature extraction, the project's AI accurately 
 
 ![model](img_vid/p2.jpg "Model for classifying real and fake news")
 
+
 ### 4. News Update Feature
 
 In today's rapidly evolving world, access to accurate and reliable news is essential for making informed decisions and understanding global events. To facilitate this, the Bloodline project integrates a news-bot feature, providing users with the latest news updates from reputable sources. By aggregating news content from trusted sources, the news-bot ensures that users have access to timely and credible information, enabling them to stay informed and engaged with current affairs.
 
 ![model](img_vid/p6.jpg "news updates")
+
 
 ## Quick Start
 
