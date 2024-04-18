@@ -267,7 +267,7 @@ npm mon index.js
 Open the `Test_Ml_Models`, then run the `model_deepfake` and `model_fake_news` file to run the Fast Api Server which is used for deploying the models.
 
 ## Demo
-[![Video Demo](p5.jpg)](https://vimeo.com/935345170?share=copy)
+[![Video Demo](img_vid/p5.jpg)](https://vimeo.com/935345170?share=copy)
 
 ## Contributors
 *Team: The BLOODLINE* 🔥🔥
