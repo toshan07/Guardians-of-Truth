@@ -66,7 +66,7 @@ In today's digital landscape, the proliferation of deepfake technology and fake 
 Guardian is an advanced AI model specifically designed to analyze images and detect deepfakes. Leveraging state-of-the-art technology, Guardian employs sophisticated algorithms to scrutinize images and identify signs of manipulation. By detecting deepfakes, Guardian helps individuals safeguard their online presence and protect themselves from potential harm. Furthermore, Guardian also verifies the authenticity of images, ensuring that users can trust the content they encounter online.
 
 
-![model](img_vid/Screenshot  "Model for classifying normal and anomaly videos")
+![model](img_vid/Screenshot 2024-04-17 at 12.02.22 AM.png "Model for classifying normal and anomaly videos")
 
 
 
