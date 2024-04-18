@@ -168,13 +168,13 @@ In 2021, Washington D.C. was stunned by viral deepfake images of Tom Cruise. Our
 The model trained using LSTM obtained 93% accuracy
 Below is the confusion matrix on training data
 
-![model](img_vid/p11.png "Confusion Matrix")
+![model](img_vid/p12.png "Confusion Matrix")
 
 #### Responses:
 
 We gave some fake news related to a fake Twitter account impersonating Republic TV is stirring controversy with biased polls, mistaken for the official channel. Despite being called out as parody, it continues to tweet divisive polls, prompting criticism from users.Our model is predicted correctly as fake
 
-![model](img_vid/p12.png "Response 1")
+![model](img_vid/p11.png "Response 1")
 
 We gave another prompt as current news regarding placement scenario in IIT's and model correctly identified the situation.
 
