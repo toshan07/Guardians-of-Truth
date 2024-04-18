@@ -29,24 +29,27 @@ In today's digital landscape, the proliferation of deepfake technology and fake 
 - **TruthGuard (Fake News Detection):** Combats the spread of misinformation by pinpointing fake news articles, promoting truth and transparency.
 - **News Update (News-Bot):**  Delivers trustworthy news updates from reputable sources, enabling users to stay informed about global events.
 
+https://github.com/toshan07/Guardians-of-Truth/assets/120120160/a88a4317-c866-4aed-87b8-d91cb7e2faf8
+
+
 ## Tech Stack
 
-# *Frontend:* 
+### *Frontend:* 
   - HTML 
   - CSS
   - JavaScript
   - Bootstrap
-# *Backend:*
+### *Backend:*
   - Express.js
   - Node.js
   - PostgreSQL
   - FastAPI 
-# *AI Models:*
+### *AI Models:*
   - Vision Transformers (Clip ViT-14) [Repo Link](https://github.com/openai/CLIP.git)
   - Fully Connected Neural Network (FCNN)
   - LSTM
   - Gemini
-# *Libraries:*
+### *Libraries:*
   - FastApi
   - FastAi
   - cv2
