@@ -265,7 +265,7 @@ pip install -r requirements.txt
 Open the `ejs_server`, by running the `index.js` file.
 ```bash
 npm i
-npm mon index.js
+nodemon index.js
 ```
 Open the `Test_Ml_Models`, then run the `model_deepfake` and `model_fake_news` file to run the Fast Api Server which is used for deploying the models.
 
